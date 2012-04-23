@@ -1,0 +1,13 @@
+[comment base]
+id
+id articles
+title comment
+text comment
+id user of comment
+date of public
+
+[rating articles]
+id
+id articles
+id user
+user rating
